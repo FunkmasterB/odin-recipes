@@ -1,0 +1,52 @@
+#Header{
+    text-align: center;
+    color: red;
+    margin-bottom: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: goldenrod;
+    
+      
+    
+}
+body{
+    background-image: url(../Images/chef.jpg) ;
+
+}
+#R1{
+    background-color: blue;
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid blue;
+    color: white;
+    text-align: center;
+
+}
+#R2{
+    background-color: blue;
+  width: 200px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid blue;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 40px;
+
+}
+#R3{
+    background-color: blue;
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid blue
+;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}

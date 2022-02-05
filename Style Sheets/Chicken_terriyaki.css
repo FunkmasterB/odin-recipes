@@ -1,0 +1,14 @@
+h1{
+    position: relative;
+    text-align: center;
+    color: cadetblue;
+}
+body{
+    background-color: wheat;
+}
+.image{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
